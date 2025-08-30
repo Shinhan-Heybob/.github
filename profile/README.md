@@ -43,17 +43,16 @@
 - MongoDB에 채팅 내역 별도 저장, 데이터 정합성과 보안 강화  
 - WebSocket 기반의 실시간 소통 지원
 
-## 빌드 및 실행 방법
+## 🔨 빌드 및 실행 방법
 
-**1. 레포 클론 및 도커 실행**
+**Server : 레포 클론 및 도커 실행**
 ```
 git clone [레포지토리 URL]
 cd [레포지토리 폴더]
 docker-compose --build -d
 ```
----
 
-## 2. 프론트엔드 실행 방법
+**Frontend : Android Studio 에뮬레이터 실행**
 
 - Android Studio 설치 및 에뮬레이터 실행(사전 설정 필요)  
 - 프로젝트 루트에서 Expo 시작  
