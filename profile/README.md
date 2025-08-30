@@ -29,7 +29,7 @@
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1756533792002?alt=media&token=89369591-caa6-4ad1-8d5d-fe7f4bdc145f)](https://github.com/msdio/stackticon)
 - Backend
 
-[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1756534040867?alt=media&token=36100a04-05f8-435e-aab8-615c791ffb99)](https://github.com/msdio/stackticon)
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1756534714859?alt=media&token=0039fc6a-b8f0-4549-838e-dda1c1531406)](https://github.com/msdio/stackticon)
 
 - Infra
 
