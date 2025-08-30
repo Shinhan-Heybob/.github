@@ -27,7 +27,7 @@
 - Frontend
   
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1756533792002?alt=media&token=89369591-caa6-4ad1-8d5d-fe7f4bdc145f)](https://github.com/msdio/stackticon)
-- Backend
+- Backend (Java 17, Spring boot 3.5.4)
 
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1756534714859?alt=media&token=0039fc6a-b8f0-4549-838e-dda1c1531406)](https://github.com/msdio/stackticon)
 
@@ -43,6 +43,31 @@
 - MongoDB에 채팅 내역 별도 저장, 데이터 정합성과 보안 강화  
 - WebSocket 기반의 실시간 소통 지원
 
+## 빌드 및 실행 방법
+
+**1. 레포 클론 및 도커 실행**
+```
+git clone [레포지토리 URL]
+cd [레포지토리 폴더]
+docker-compose --build -d
+```
+---
+
+## 2. 프론트엔드 실행 방법
+
+- Android Studio 설치 및 에뮬레이터 실행(사전 설정 필요)  
+- 프로젝트 루트에서 Expo 시작  
+```
+npx expo start
+```
+
+- 에뮬레이터가 실행 중이면 터미널에서 `a` 키 누르면 앱 자동 실행  
+- 코드 수정 시 자동으로 앱에 반영됨  
+
+- 필요한 경우 캐시 삭제 후 실행:  
+```
+npx expo start --clear
+```
 
 ## 🎯 기대 효과  
 
